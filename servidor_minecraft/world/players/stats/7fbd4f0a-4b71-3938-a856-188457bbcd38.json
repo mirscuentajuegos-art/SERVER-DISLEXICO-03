@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 2
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 32,
+      "minecraft:stone_pickaxe": 24
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 5933,
+      "minecraft:walk_one_cm": 29134,
+      "minecraft:play_time": 5933,
+      "minecraft:jump": 16,
+      "minecraft:time_since_death": 5933,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 26635,
+      "minecraft:open_chest": 3,
+      "minecraft:total_world_time": 5933,
+      "minecraft:fly_one_cm": 1032,
+      "minecraft:walk_on_water_one_cm": 40,
+      "minecraft:crouch_one_cm": 49,
+      "minecraft:sneak_time": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 21,
+      "minecraft:oak_planks": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:sugar_cane": 3,
+      "minecraft:raw_copper": 9
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 20,
+      "minecraft:tall_grass": 1,
+      "minecraft:oak_log": 1,
+      "minecraft:oak_planks": 1,
+      "minecraft:sugar_cane": 1,
+      "minecraft:copper_ore": 3,
+      "minecraft:stone": 21
+    }
+  },
+  "DataVersion": 4903
+}
